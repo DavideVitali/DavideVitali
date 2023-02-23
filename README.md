@@ -1,4 +1,4 @@
-[![HelloThere](image)](hellothere.jpg)
+![Hello There!](hellothere.jpg "Hello There")
 
 <!--
 **DavideVitali/DavideVitali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
